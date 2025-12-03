@@ -1,3 +1,3 @@
 
 ### hey, i am advait!
-#### just check out my portfolio at [astroxide.xyz](https://astroxide.vercel.app) to know more about me!
+#### just check out my portfolio at [advtszn.xyz](https://advtszn.xyz) to know more about me!
