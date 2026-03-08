@@ -1,5 +1,3 @@
-<sub>
-  <samp>
+<samp>
     <a href="https://advtszn.xyz">artistry</a>
   </samp>
-</sub>
